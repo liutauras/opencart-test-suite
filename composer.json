@@ -16,9 +16,9 @@
     ],
     "require-dev": {
         "opencart/opencart" : "2.3.0.2",
-        "vlucas/phpdotenv": "~1.1.0",
-        "phpunit/phpunit" : "4.*",
-        "consolidation/robo": "^1.0"
+        "vlucas/phpdotenv": "^2.4",
+        "phpunit/phpunit" : "9.*",
+        "consolidation/robo": "^3.0.3"
     },
     "autoload": {
         "files": [
